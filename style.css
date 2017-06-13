@@ -55,9 +55,9 @@ h1, h2 {
 }
 
 .project:hover {
-  background-color: #0066CC;
+  background-color: #0000CC;
 }
 
-//h1:hover{
-//	color: #0096CC;
-//}
+h1:hover{
+	background-color: #0066CC;
+}
